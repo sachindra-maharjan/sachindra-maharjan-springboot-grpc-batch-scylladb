@@ -1,0 +1,6 @@
+org/sm/config/GrpcClientConfig.class
+org/sm/dto/Product.class
+org/sm/App.class
+org/sm/service/ProductServiceRPC.class
+org/sm/service/helpers/DtoMappingHelper.class
+org/sm/controller/ProductController.class

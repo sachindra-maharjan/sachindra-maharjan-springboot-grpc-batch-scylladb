@@ -1,0 +1,6 @@
+/Users/sachindra.maharjan/projects/springboot-grpc-batch-scylladb/client-service/src/main/java/org/sm/App.java
+/Users/sachindra.maharjan/projects/springboot-grpc-batch-scylladb/client-service/src/main/java/org/sm/config/GrpcClientConfig.java
+/Users/sachindra.maharjan/projects/springboot-grpc-batch-scylladb/client-service/src/main/java/org/sm/controller/ProductController.java
+/Users/sachindra.maharjan/projects/springboot-grpc-batch-scylladb/client-service/src/main/java/org/sm/dto/Product.java
+/Users/sachindra.maharjan/projects/springboot-grpc-batch-scylladb/client-service/src/main/java/org/sm/service/ProductServiceRPC.java
+/Users/sachindra.maharjan/projects/springboot-grpc-batch-scylladb/client-service/src/main/java/org/sm/service/helpers/DtoMappingHelper.java
